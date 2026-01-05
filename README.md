@@ -1,3 +1,4 @@
+📄 Detaylı Proje Raporunu İncele (PDF)
 # 🧬 SAĞLIK ALGORİTMASI (NutriLogic)
 
 > **Veri Odaklı Bütüncül Yaşam ve Besin Yönetim Platformu**
@@ -34,7 +35,7 @@ Bilgisayarınızda yerel sunucu olarak **XAMPP**, **WAMP** veya **MAMP** yüklü
 
 ### 🔑 Yönetici (Admin) Giriş Bilgileri
 Admin paneline erişmek ve içerik yönetimi yapmak için:
-- **E-Posta:** `admin@gmail.com` 
+- **E-Posta:** `admin@gmail.com`
 - **Şifre:** `admin`
 
 ---
@@ -68,7 +69,6 @@ Saglik-Algoritmasi/
 ├── uyelik/          # Giriş, Kayıt, Çıkış işlemleri
 ├── admin/           # Yönetim paneli
 └── index.php        # Ana sayfa
-
 🎓 Proje Künyesi
 Ders: Web Tasarımı ve Programlama
 
