@@ -70,9 +70,11 @@ Saglik-Algoritmasi/
 └── index.php        # Ana sayfa
 
 ---
+
+---
 ### 🎓 Proje Künyesi
 * **Ders:** Web Tasarımı ve Programlama
 * **Geliştirici:** Beytullah Daldaban
 * **Yıl:** 2025-2026 Güz Dönemi
 
-[📄 Detaylı Proje Raporunu İncele (PDF)](Saglik_Algoritmasi_Final_Raporu.pdf)
+[📄 Detaylı Proje Raporunu İncele (PDF)](Saglik_Algoritmasi_Final_Teslim.pdf)
