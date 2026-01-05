@@ -1,5 +1,9 @@
-📄 Detaylı Proje Raporunu İncele (PDF)
 # 🧬 SAĞLIK ALGORİTMASI (NutriLogic)
+
+🎓 Proje Künyesi
+Ders: Web Tasarımı ve Programlama
+Geliştirici: Beytullah Daldaban
+Yıl: 2025-2026 Güz Dönemi
 
 > **Veri Odaklı Bütüncül Yaşam ve Besin Yönetim Platformu**
 
@@ -30,13 +34,13 @@ Bilgisayarınızda yerel sunucu olarak **XAMPP**, **WAMP** veya **MAMP** yüklü
 2.  **Apache** servisini başlatın (Start).
 3.  Tarayıcınızı açın ve şu adrese gidin:
     ```
-    http://localhost/seker_proje/index.php
+    http://localhost/Saglik-Algoritmasi
     ```
 
 ### 🔑 Yönetici (Admin) Giriş Bilgileri
 Admin paneline erişmek ve içerik yönetimi yapmak için:
-- **E-Posta:** `admin@gmail.com`
-- **Şifre:** `admin`
+- **E-Posta:** `admin@admin.com` (veya veritabanındaki kayıtlı admin maili)
+- **Şifre:** `123` *(Eğer değiştirilmediyse)*
 
 ---
 
@@ -69,11 +73,3 @@ Saglik-Algoritmasi/
 ├── uyelik/          # Giriş, Kayıt, Çıkış işlemleri
 ├── admin/           # Yönetim paneli
 └── index.php        # Ana sayfa
-🎓 Proje Künyesi
-Ders: Web Tasarımı ve Programlama
-
-Geliştirici: Beytullah Daldaban
-
-Yıl: 2025-2026 Güz Dönemi
-
-📄 Detaylı Proje Raporunu İncele (PDF)
