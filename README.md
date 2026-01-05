@@ -2,7 +2,9 @@
 
 🎓 Proje Künyesi
 Ders: Web Tasarımı ve Programlama
+
 Geliştirici: Beytullah Daldaban
+
 Yıl: 2025-2026 Güz Dönemi
 
 > **Veri Odaklı Bütüncül Yaşam ve Besin Yönetim Platformu**
