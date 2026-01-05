@@ -36,13 +36,13 @@ Bilgisayarınızda yerel sunucu olarak **XAMPP**, **WAMP** veya **MAMP** yüklü
 2.  **Apache** servisini başlatın (Start).
 3.  Tarayıcınızı açın ve şu adrese gidin:
     ```
-    http://localhost/Saglik-Algoritmasi
+    http://localhost/seker_proje/index.php
     ```
 
 ### 🔑 Yönetici (Admin) Giriş Bilgileri
 Admin paneline erişmek ve içerik yönetimi yapmak için:
-- **E-Posta:** `admin@admin.com` (veya veritabanındaki kayıtlı admin maili)
-- **Şifre:** `123` *(Eğer değiştirilmediyse)*
+- **E-Posta:** `admin@gmail.com` 
+- **Şifre:** `admin`
 
 ---
 
